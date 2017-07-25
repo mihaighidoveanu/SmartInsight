@@ -4,7 +4,7 @@
   "engineFactory": "org.example.recommendation.RecommendationEngine",
   "datasource": {
     "params" : {
-      "appName": "javadase"
+      "appName": "SmartInsight"
     }
   },
   "algorithms": [
@@ -15,7 +15,7 @@
         "rank": 10,
         "iteration": 10,
         "lambda": 0.01,
-        "appName": "javadase",
+        "appName": "SmartInsight",
         "similarItemEvents": ["view"],
         "seenItemEvents": ["buy", "view"],
         "unseenOnly": true
