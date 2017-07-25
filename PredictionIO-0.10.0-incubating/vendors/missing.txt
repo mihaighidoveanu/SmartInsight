@@ -1,0 +1,1 @@
+Each vendor is git tracked only by its configuration file. Rest of the vendors should be installed according to the README instructions.
